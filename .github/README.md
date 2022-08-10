@@ -7,17 +7,6 @@
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Multi-Language support
-
-
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
-
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-
-## ⚠️ Heroku / Okteto / Railway
-
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
-
 ## 🖇 Generating Pyrogram String Session
 
 <p>
@@ -25,17 +14,13 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 <a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
-## 🖇 VPS Deployment
-
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
 
 # 🏷 Support / Assistance
 
 Reach out to the maintainer at one of the following places:
 
 - [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
+- Contact options listed on [this GitHub profile](https://github.com/rohitraj-hub-hero)
 - [Telegram Support](https://t.me/villain_supports)
 
 
