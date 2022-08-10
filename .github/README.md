@@ -1,8 +1,8 @@
 <img src="https://te.legra.ph/file/73b81e6823d4145c5012d.jpg" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/rohitraj-hub-hero/VILLIAN-MUSICXD?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# villain Music Bot <img src="https://img.shields.io/github/v/release/rohitraj-hub-hero/VILLIAN-MUSICXD?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Yukki Music Bot](https://github.com/rohitraj-hub-hero/VILLIAN-MUSICXD) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[VILLAIN Music Bot](https://github.com/rohitraj-hub-hero/VILLIAN-MUSICXD) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
@@ -38,16 +38,10 @@ Reach out to the maintainer at one of the following places:
 - Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
 - [Telegram Support](https://t.me/YukkiSupport)
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
-
-Together, we can make **YukkiMusicBot** better!
 # 📑 Acknowledgement / Credits
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power villain Music Bot:
 
 - [Pyrogram](https://github.com/rohitraj-hub-hero)
 
