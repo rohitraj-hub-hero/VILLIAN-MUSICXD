@@ -49,6 +49,6 @@ Together, we can make **YukkiMusicBot** better!
 
 Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
 
-- [Pyrogram](https://github.com/rohitraj_hub_hero)
+- [Pyrogram](https://github.com/rohitraj-hub-hero)
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
